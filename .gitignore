@@ -1,0 +1,11 @@
+# Development
+.DS_Store
+.todo
+
+# Editor directories and files
+.idea
+
+# Node
+node_modules/
+/dist/
+npm-debug.log*
